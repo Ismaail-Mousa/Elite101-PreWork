@@ -1,13 +1,5 @@
 # Introduction
 
 
-This is a repository created by *Malik*
+This is elite101 prework made by ismaail
 
-
-## Usage
-
-
-Run this command to execute the application:
-
-
-`python main.py`
